@@ -1,6 +1,6 @@
 # Socket Programming in C
 
-A simple UDP Server-Client program that accepts a client connection and calculates the age in terms of years, months and days, given a date of birth.
+A simple UDP Server-Client program that calculates the age in terms of years, months and days, given a date of birth.
 
 ## Implementation
 
