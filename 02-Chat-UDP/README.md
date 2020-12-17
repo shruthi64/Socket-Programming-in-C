@@ -1,6 +1,6 @@
 # Socket Programming in C
 
-A simple UDP Server-Client chatting program that accepts a client connection and interacts with the client till it says "bye".
+A simple UDP Server-Client chatting program that interacts with the client till it says "bye".
 
 ## Implementation
 
