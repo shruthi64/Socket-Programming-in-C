@@ -23,6 +23,7 @@ recvfrom(sersocket,buffer,sizeof(buffer),0,(struct sockaddr*)&newaddr,&size);
 printf("\nFrom client:%s",buffer);
 if(strcmp(buffer,"bye\n")==0)
 break;
+else
 printf("\tTo client:");
 fgets(buffer,sizeof(buffer),stdin);
 sendto(sersocket,buffer,sizeof(buffer),0,(struct sockaddr*)&newaddr,sizeof(newaddr));
