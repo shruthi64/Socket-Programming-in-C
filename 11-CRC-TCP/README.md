@@ -1,6 +1,6 @@
 # Socket Programming in C
 
-A simple TCP Server-Client program implementing a Cyclic Redundancy Check (CRC).
+A simple TCP Server-Client program performing a Cyclic Redundancy Check (CRC).
 
 ## Implementation
 
